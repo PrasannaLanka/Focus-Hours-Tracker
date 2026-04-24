@@ -24,7 +24,6 @@ To build a clean, distraction-free focus tracking tool that:
 
 - Select focus duration before starting
   - Default: **30 minutes**
-  - Options: 25 / 30 / 45 / 60 minutes
   - Custom duration (optional future enhancement)
 - Countdown timer
 - Start / Stop session manually
